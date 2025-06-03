@@ -29,7 +29,7 @@ public class Mahasiswa23E {
         if (pilihan == 2) {
             System.out.println("Input Data Mahasiswa");
             Mahasiswa m23 = new Mahasiswa();
-            m23.insertMahasiswa("20230040044", "Dapid", "Sunda", "L");
+            m23.insertMahasiswa("20230040096", "fahdy", "jawir", "L");
             m23.readMahasiswa();
             return;
         }
